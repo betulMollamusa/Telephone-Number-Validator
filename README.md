@@ -1,0 +1,1 @@
+The Telephone Number Validator is a web application that verifies whether a given phone number is formatted correctly according to US standards. It provides real-time validation feedback based on the input.
